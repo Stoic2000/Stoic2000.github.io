@@ -108,6 +108,5 @@
                 <li>Soft skills: Problem- solving, Teamwork, Communication, Presentation</li>
             </ul>
         </div>
-          </body>
-          </html>
+        
 ```
