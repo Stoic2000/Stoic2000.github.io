@@ -109,16 +109,15 @@
             </ul>
         </div>
 
-    <head>
-        <!DOCTYPE html>
-
-<head>
-    <title>My LinkedIn</title>
-</head>
-<body>
-    <p>Visit my profile on 
-        <a href="https://www.linkedin.com/in/ezhumalai-p" target="_blank">LinkedIn</a>.
-    </p>
-</body>
-</html>
+     <!DOCTYPE html>
+         <html>
+        <head>
+        <title>My LinkedIn</title>
+        </head>
+       <body>
+           <p>Visit my profile on 
+          <a href="https://www.linkedin.com/in/ezhumalai-p" target="_blank">LinkedIn</a>.
+          </p>
+          </body>
+          </html>
 ```
