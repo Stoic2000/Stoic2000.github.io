@@ -70,7 +70,7 @@
 
         <div class="section">
             <h2>Career Objective</h2>
-            <p class="content">Aspiring IT professional with an MBA and Full Stack Development training, seeking to leverage technical and business expertise to develop innovative solutions</p>
+            <p class="content">MBA with Full stack development skills, eager to apply tecnical expertise and business acumen to drive innovation in the IT industry</p>
         </div>
 
         <div class="section">
@@ -78,8 +78,6 @@
             <ul class="content">
                 <li>MBA - Loyola Institute of Science and Technology, Anna University, 2024</li>
                 <li>BA - Scott Christian College (Autonomous), Manonmaniam Sundaranar University, 2021</li>
-                <li>HSC - Holy Angel Matric Hr Sec School, State Board, 2018</li>
-                <li>SSLC - Sree Narayana Guru Matric Hr Sec School, State Board, 2015</li>
             </ul>
         </div>
 
@@ -100,30 +98,27 @@
         </div>
 
         <div class="section">
-            <h2>Key Skills</h2>
+            <h2>Skills</h2>
             <ul class="content">
-                <li>Communication & Presentation Skills</li>
-                <li>Team Collaboration</li>
-                <li>Time Management</li>
+                <li>Frontend: HTML, CSS, JAVASCRIPT</li>
+                <li>Backend: Node js, JAVA</li>
+                <li>Database: MySQL</li>
+                <li>Tools & Platforms: Git, GitHub, VS code</li>
+                <li>Other skills: Object- oriented programming</li>
+                <li>Soft skills: Problem- solving, Teamwork, Communication, Presentation</li>
             </ul>
         </div>
 
-        <div class="section">
-            <h2>Technical Skills</h2>
-            <ul class="content">
-                <li>MS Office</li>
-                <li>Digital Marketing</li>
-            </ul>
-        </div>
+    <head>
+        <!DOCTYPE html>
 
-        <div class="section">
-            <h2>Languages</h2>
-            <ul class="content">
-                <li>Tamil</li>
-                <li>English</li>
-            </ul>
-        </div>
-    </div>
+<head>
+    <title>My LinkedIn</title>
+</head>
+<body>
+    <p>Visit my profile on 
+        <a href="https://www.linkedin.com/in/ezhumalai-p" target="_blank">LinkedIn</a>.
+    </p>
 </body>
 </html>
 ```
